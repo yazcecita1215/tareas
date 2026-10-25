@@ -1,0 +1,6 @@
+{
+  "name": "LISTO — Aplicación de Lista de Tareas",
+  "description": "Aplicación web progresiva (PWA) para organizar tus tareas y cumplir tus metas con diseño estructurado, persistencia y acceso offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
